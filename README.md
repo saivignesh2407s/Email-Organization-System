@@ -46,4 +46,17 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any queries or issues, feel free to contact me at:
 - **Email**: saivigneshbadugu143@gmail.com
 
+Here is the corrected version of your text with grammar improvements:
+
+
+# How to Create an App-Generated Password
+
+1. Open **Manage your Google Account** in the top right corner of your profile.
+2. Turn ON **Two-Factor Authentication**.
+3. Search for **App Password**.  
+   **Note**: The App Password will be shown after you turn ON **Two-Factor Authentication**.
+4. Specify the app name and click on **Create**.
+5. You will receive a 16-digit app-generated password.
+
+
 You can modify or expand on this based on additional features or specifics of your project!
