@@ -1,3 +1,6 @@
+# Enable IMAP access in your Gmail account settings
+# https://mail.google.com/mail/u/0/#settings/fwdandpop
+
 import imaplib
 import email
 from collections import defaultdict
@@ -18,8 +21,6 @@ imap_port = 993
 print("Login Success to Server ")
 
 
-# Enable IMAP access in your Gmail account settings
-# https://mail.google.com/mail/u/0/#settings/fwdandpop
 
 # Connect to IMAP server
 mail = imaplib.IMAP4_SSL(imap_server, imap_port)
