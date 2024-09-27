@@ -1,4 +1,4 @@
-Email Organization System
+**Email Organization System**
 This project is an automated system that helps in organizing your email inbox by performing the following tasks:
 
 Classifying emails based on categories such as spam, promotions, and important.
