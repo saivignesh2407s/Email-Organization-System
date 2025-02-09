@@ -17,7 +17,7 @@ import email as email_lib               # Rename module reference
 # **Gmail account credentials**
 
 username = input("Enter your Username")
-password = input("Enter your Pasword")
+password = input("Enter your Password")
 
 # IMAP server settings
 
