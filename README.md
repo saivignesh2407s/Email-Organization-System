@@ -8,19 +8,16 @@ This project is an automated system that helps in organizing your email inbox by
 - Deleting emails based on predefined conditions, such as date or sender.
   
 ## Features
-1. **Email Classification**: 
-   - Uses advanced machine learning algorithms to classify emails into relevant categories.
-   - Weighted K-Nearest Neighbors (KNN) or other custom classifiers are used for efficient classification.
-   
-2. **Spam Detection and Deletion**:
-   - Detects spam emails using pre-trained models and predefined rules.
-   - Automatically deletes or marks spam emails for removal.
 
-3. **Unsubscribe from Spam**:
-   - Identifies subscription emails and provides an option to unsubscribe from unwanted ones.
+- **Email Classification:** Categorizes emails into different types (important, spam, promotional, etc.).
+- **Spam Deletion:** Automatically detects and deletes spam emails.
+- **Unsubscribe Functionality:** Identifies and unsubscribes from spam or promotional emails.
+- **Automated Email Sorting:** Organizes emails based on predefined rules and classifications.
+- **User-Friendly Interface:** Simple and intuitive UI for managing emails effectively.
+- **Storing All Files in a Folder**  
+     - **Cleaning Folder Names** – Ensures folder names contain only alphanumeric characters.  
+     - **Categorizing Attachments Based on File Type** – Organizes files into categories like Images, Documents, Videos, and Others.  
 
-4. **Automated Email Deletion**:
-   - Deletes emails that meet specified criteria such as older than a certain date, specific senders, or keywords.
    
 ## Technologies Used
 - **Python**: Core programming language for developing the project.
@@ -60,3 +57,8 @@ Here is the corrected version of your text with grammar improvements:
 
 
 You can modify or expand on this based on additional features or specifics of your project!
+
+### Contact
+
+For queries or suggestions, contact **B. Sai Vignesh** at [saivigneshbadugu143@gmail.com](mailto\:saivigneshbadugu143@gmail.com).
+
